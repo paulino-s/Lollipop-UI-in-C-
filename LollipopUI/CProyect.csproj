@@ -1,0 +1,595 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1DA4476D-4744-4A71-B5E0-2DC5FD3FAAA2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CProyect</RootNamespace>
+    <AssemblyName>CProyect</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\paul\Desktop\Corregido\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>3</ApplicationRevision>
+    <ApplicationVersion>1.1.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>A3B5E3676EB4B9B3CA902ABFB69C72214F48588A</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>CProyect_ClaveTemporal.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>icon_sale.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MaterialSkin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialSkin.0.2.1\lib\MaterialSkin.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Forms\Carretilla.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Carretilla.Designer.cs">
+      <DependentUpon>Carretilla.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DBVentasDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DBVentasDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\CatDiscoDuro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CatDiscoDuro.Designer.cs">
+      <DependentUpon>CatDiscoDuro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\CatDVD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CatDVD.Designer.cs">
+      <DependentUpon>CatDVD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\CatMouse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CatMouse.Designer.cs">
+      <DependentUpon>CatMouse.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\CatTeclado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CatTeclado.Designer.cs">
+      <DependentUpon>CatTeclado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\CatMonitor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CatMonitor.Designer.cs">
+      <DependentUpon>CatMonitor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\CatUSB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CatUSB.Designer.cs">
+      <DependentUpon>CatUSB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\CatSSD.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CatSSD.Designer.cs">
+      <DependentUpon>CatSSD.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\CatTarjetasVideo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CatTarjetasVideo.Designer.cs">
+      <DependentUpon>CatTarjetasVideo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\CatMotherboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CatMotherboard.Designer.cs">
+      <DependentUpon>CatMotherboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\CatRAM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CatRAM.Designer.cs">
+      <DependentUpon>CatRAM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\CatProcesadores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CatProcesadores.Designer.cs">
+      <DependentUpon>CatProcesadores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\CatGamingLaptops.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CatGamingLaptops.Designer.cs">
+      <DependentUpon>CatGamingLaptops.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\CatTablets.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CatTablets.Designer.cs">
+      <DependentUpon>CatTablets.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\CatLaptops.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CatLaptops.Designer.cs">
+      <DependentUpon>CatLaptops.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\CatServer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CatServer.Designer.cs">
+      <DependentUpon>CatServer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\CatGaming.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CatGaming.Designer.cs">
+      <DependentUpon>CatGaming.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\CatEscritorio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\CatEscritorio.Designer.cs">
+      <DependentUpon>CatEscritorio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Principal.Designer.cs">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ImgCategorias.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ImgCategorias.resx</DependentUpon>
+    </Compile>
+    <Compile Include="ImgEscritorio.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ImgEscritorio.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Registro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Registro.Designer.cs">
+      <DependentUpon>Registro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIManagers\DrawHelper.cs" />
+    <Compile Include="UIManagers\FontManager.cs" />
+    <Compile Include="Controls\LollipopButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\LollipopCard.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\LollipopCheckBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\LollipopFileInput.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\LollipopFlatButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\LollipopFolderInPut.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\LollipopLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\LollipopProgressBar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\LollipopRadioButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\LollipopSmallCard.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\LollipopTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\LollipopToggle.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Forms\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Forms\Carretilla.resx">
+      <DependentUpon>Carretilla.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\CatDiscoDuro.resx">
+      <DependentUpon>CatDiscoDuro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\CatDVD.resx">
+      <DependentUpon>CatDVD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\CatMouse.resx">
+      <DependentUpon>CatMouse.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\CatTeclado.resx">
+      <DependentUpon>CatTeclado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\CatMonitor.resx">
+      <DependentUpon>CatMonitor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\CatUSB.resx">
+      <DependentUpon>CatUSB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\CatSSD.resx">
+      <DependentUpon>CatSSD.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\CatTarjetasVideo.resx">
+      <DependentUpon>CatTarjetasVideo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\CatMotherboard.resx">
+      <DependentUpon>CatMotherboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\CatRAM.resx">
+      <DependentUpon>CatRAM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\CatProcesadores.resx">
+      <DependentUpon>CatProcesadores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\CatGamingLaptops.resx">
+      <DependentUpon>CatGamingLaptops.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\CatTablets.resx">
+      <DependentUpon>CatTablets.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\CatLaptops.resx">
+      <DependentUpon>CatLaptops.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\CatServer.resx">
+      <DependentUpon>CatServer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\CatGaming.resx">
+      <DependentUpon>CatGaming.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\CatEscritorio.resx">
+      <DependentUpon>CatEscritorio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Principal.resx">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Registro.resx">
+      <DependentUpon>Registro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImgCategorias.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>ImgCategorias.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImgEscritorio.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>ImgEscritorio.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="CProyect_ClaveTemporal.pfx" />
+    <None Include="DBVentasDataSet.xsc">
+      <DependentUpon>DBVentasDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DBVentasDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DBVentasDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DBVentasDataSet.xss">
+      <DependentUpon>DBVentasDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Resources\Roboto-Medium.ttf" />
+    <EmbeddedResource Include="Resources\Roboto-Regular.ttf" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LoginIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UserIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\passIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AIO PC.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Case.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chromebook.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cooling.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CPU.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Desktop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Gaming Laptop.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GPU.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\laptop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Laptop2en1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Motherboard.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PC Gaming.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Power.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\RAM.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Server PC.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tablet.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NAS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\enclosures.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\USB.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CDDVD.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HDD.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SSD.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EscanerPrinder.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\headset.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Monitor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mouse.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Teclado.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\UPS.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AudioVideo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\OS.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Productividad.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Seguridad.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shopingcart.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shopingcartMOD.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thinkcentre-m800.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="DBVentas.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="icon_sale.ico" />
+    <None Include="Resources\T01.jpg" />
+    <None Include="Resources\T03.jpg" />
+    <None Include="Resources\T04.jpg" />
+    <None Include="Resources\T05.jpg" />
+    <None Include="Resources\T06.jpg" />
+    <None Include="Resources\T02.jpg" />
+    <None Include="Resources\DD01.jpg" />
+    <None Include="Resources\DD02.jpg" />
+    <None Include="Resources\DD03.jpg" />
+    <None Include="Resources\DD04.jpg" />
+    <None Include="Resources\CD01.jpg" />
+    <None Include="Resources\CD02.jpg" />
+    <None Include="Resources\CD03.jpg" />
+    <None Include="Resources\CD04.jpg" />
+    <None Include="Resources\SSD04.jpg" />
+    <None Include="Resources\SSD01.jpg" />
+    <None Include="Resources\SSD02.jpg" />
+    <None Include="Resources\SSD03.jpg" />
+    <None Include="Resources\MF01.jpg" />
+    <None Include="Resources\MF02.jpg" />
+    <None Include="Resources\MF03.jpg" />
+    <None Include="Resources\MF04.jpg" />
+    <None Include="Resources\TV04.jpg" />
+    <None Include="Resources\TV03.jpg" />
+    <None Include="Resources\TV02.jpg" />
+    <None Include="Resources\TV01.png" />
+    <None Include="Resources\RAM06.jpg" />
+    <None Include="Resources\RAM05.jpg" />
+    <None Include="Resources\RAM04.jpg" />
+    <None Include="Resources\RAM03.jpg" />
+    <None Include="Resources\RAM02.jpg" />
+    <None Include="Resources\RAM01.jpg" />
+    <None Include="Resources\MD04.jpg" />
+    <None Include="Resources\MD03.jpg" />
+    <None Include="Resources\MD02.jpg" />
+    <None Include="Resources\MD01.jpg" />
+    <None Include="Resources\CPU05.png" />
+    <None Include="Resources\CPU04.jpg" />
+    <None Include="Resources\CPU03.gif" />
+    <None Include="Resources\CPU02.png" />
+    <None Include="Resources\CPU01.png" />
+    <None Include="Resources\Mouse04.jpg" />
+    <None Include="Resources\Mouse03.jpg" />
+    <None Include="Resources\Mouse02.jpg" />
+    <None Include="Resources\Mouse01.jpg" />
+    <None Include="Resources\Teclado04.jpg" />
+    <None Include="Resources\Teclado03.jpg" />
+    <None Include="Resources\Teclado02.jpg" />
+    <None Include="Resources\Teclado01.jpg" />
+    <None Include="Resources\Monitor04.jpg" />
+    <None Include="Resources\Monitor03.jpg" />
+    <None Include="Resources\Monitor02.jpg" />
+    <None Include="Resources\Monitor01.jpg" />
+    <None Include="Resources\GLaptop06.jpg" />
+    <None Include="Resources\GLaptop05.jpg" />
+    <None Include="Resources\GLaptop04.jpg" />
+    <None Include="Resources\GLaptop03.jpg" />
+    <None Include="Resources\GLaptop02.jpg" />
+    <None Include="Resources\GLaptop01.jpg" />
+    <None Include="Resources\ImaLaptop06.jpg" />
+    <None Include="Resources\ImaLaptop05.jpg" />
+    <None Include="Resources\ImaLaptop04.jpg" />
+    <None Include="Resources\ImaLaptop03.jpg" />
+    <None Include="Resources\ImaLaptop02.jpg" />
+    <None Include="Resources\ImaLaptop01.jpg" />
+    <None Include="Resources\ImgServer06.JPG" />
+    <None Include="Resources\ImgServer05.JPG" />
+    <None Include="Resources\ImgServer04.JPG" />
+    <None Include="Resources\ImgServer03.JPG" />
+    <None Include="Resources\ImgServer02.JPG" />
+    <None Include="Resources\ImgServer01.JPG" />
+    <None Include="Resources\6.jpg" />
+    <None Include="Resources\5.jpg" />
+    <None Include="Resources\4.jpg" />
+    <None Include="Resources\3.jpg" />
+    <None Include="Resources\2.jpg" />
+    <None Include="Resources\1.jpg" />
+    <None Include="Resources\06_Zotac.JPG" />
+    <None Include="Resources\05Mac_Pro.jpg" />
+    <None Include="Resources\04HP_6005.jpg" />
+    <None Include="Resources\03HP_S6305.png" />
+    <None Include="Resources\02Dell_Inspiron_3250.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

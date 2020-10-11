@@ -1,0 +1,192 @@
+D:\Mis Documentos\Visual Studio 2015\Projects\Plantilla - copia\LollipopUI\bin\Debug\LollipopUI.exe.config
+D:\Mis Documentos\Visual Studio 2015\Projects\Plantilla - copia\LollipopUI\obj\Debug\LollipopUI.exe
+D:\Mis Documentos\Visual Studio 2015\Projects\Plantilla - copia\LollipopUI\obj\Debug\LollipopUI.pdb
+D:\Mis Documentos\Visual Studio 2015\Projects\Plantilla - copia\LollipopUI\bin\Debug\LollipopUI.exe
+D:\Mis Documentos\Visual Studio 2015\Projects\Plantilla - copia\LollipopUI\bin\Debug\LollipopUI.pdb
+D:\Mis Documentos\Visual Studio 2015\Projects\Plantilla - copia\LollipopUI\bin\Debug\MaterialSkin.dll
+D:\Mis Documentos\Visual Studio 2015\Projects\Plantilla - copia\LollipopUI\obj\Debug\CProyect.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2015\Projects\Plantilla - copia\LollipopUI\obj\Debug\LollipopUI.Login.resources
+D:\Mis Documentos\Visual Studio 2015\Projects\Plantilla - copia\LollipopUI\obj\Debug\LollipopUI.Properties.Resources.resources
+D:\Mis Documentos\Visual Studio 2015\Projects\Plantilla - copia\LollipopUI\obj\Debug\CProyect.csproj.GenerateResource.Cache
+D:\Mis Documentos\Visual Studio 2015\Projects\Plantilla - copia\LollipopUI\obj\Debug\LollipopUI.Forms.Principal.resources
+D:\Mis Documentos\Visual Studio 2015\Projects\Plantilla - copia\LollipopUI\obj\Debug\LollipopUI.ImgCategorias.resources
+D:\Mis Documentos\Visual Studio 2015\Projects\Plantilla - copia\LollipopUI\obj\Debug\LollipopUI.Forms.CatEscritorio.resources
+D:\Mis Documentos\Visual Studio 2015\Projects\Plantilla - copia\LollipopUI\obj\Debug\LollipopUI.ImgEscritorio.resources
+D:\Mis Documentos\Visual Studio 2015\Projects\Plantilla - copia\LollipopUI\bin\Debug\LollipopUI.exe.manifest
+D:\Mis Documentos\Visual Studio 2015\Projects\Plantilla - copia\LollipopUI\bin\Debug\LollipopUI.application
+D:\Mis Documentos\Visual Studio 2015\Projects\Plantilla - copia\LollipopUI\obj\Debug\LollipopUI.exe.manifest
+D:\Mis Documentos\Visual Studio 2015\Projects\Plantilla - copia\LollipopUI\obj\Debug\LollipopUI.application
+D:\Mis Documentos\Visual Studio 2015\Projects\Plantilla - copia\LollipopUI\bin\Debug\DBVentas.mdb
+D:\Mis Documentos\Visual Studio 2015\Projects\Plantilla - copia\LollipopUI\obj\Debug\LollipopUI.Registro.resources
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Plantilla - copia\LollipopUI\bin\Debug\LollipopUI.exe.config
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Plantilla - copia\LollipopUI\obj\Debug\LollipopUI.exe
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Plantilla - copia\LollipopUI\obj\Debug\LollipopUI.pdb
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Plantilla - copia\LollipopUI\bin\Debug\DBVentas.mdb
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Plantilla - copia\LollipopUI\bin\Debug\LollipopUI.exe.manifest
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Plantilla - copia\LollipopUI\bin\Debug\LollipopUI.application
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Plantilla - copia\LollipopUI\bin\Debug\LollipopUI.exe
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Plantilla - copia\LollipopUI\bin\Debug\LollipopUI.pdb
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Plantilla - copia\LollipopUI\bin\Debug\MaterialSkin.dll
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Plantilla - copia\LollipopUI\obj\Debug\CProyect.csprojResolveAssemblyReference.cache
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Plantilla - copia\LollipopUI\obj\Debug\LollipopUI.Forms.CatEscritorio.resources
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Plantilla - copia\LollipopUI\obj\Debug\LollipopUI.Login.resources
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Plantilla - copia\LollipopUI\obj\Debug\LollipopUI.Forms.Principal.resources
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Plantilla - copia\LollipopUI\obj\Debug\LollipopUI.Registro.resources
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Plantilla - copia\LollipopUI\obj\Debug\LollipopUI.ImgCategorias.resources
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Plantilla - copia\LollipopUI\obj\Debug\LollipopUI.ImgEscritorio.resources
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Plantilla - copia\LollipopUI\obj\Debug\LollipopUI.Properties.Resources.resources
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Plantilla - copia\LollipopUI\obj\Debug\CProyect.csproj.GenerateResource.Cache
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Plantilla - copia\LollipopUI\obj\Debug\LollipopUI.exe.manifest
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Plantilla - copia\LollipopUI\obj\Debug\LollipopUI.application
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Plantilla - copia\LollipopUI\obj\Debug\LollipopUI.Carretilla.resources
+D:\Mis Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\bin\Debug\DBVentas.mdb
+D:\Mis Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\bin\Debug\MaterialSkin.dll
+D:\Mis Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.csproj.GenerateResource.Cache
+D:\Mis Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\bin\Debug\CProyect.exe.config
+D:\Mis Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.ImgCategorias.resources
+D:\Mis Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.ImgEscritorio.resources
+D:\Mis Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.Properties.Resources.resources
+D:\Mis Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\bin\Debug\CProyect.exe.manifest
+D:\Mis Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\bin\Debug\CProyect.application
+D:\Mis Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\bin\Debug\CProyect.exe
+D:\Mis Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\bin\Debug\CProyect.pdb
+D:\Mis Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.Carretilla.resources
+D:\Mis Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.Forms.CatDiscoDuro.resources
+D:\Mis Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.Forms.CatDVD.resources
+D:\Mis Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.Forms.CatMouse.resources
+D:\Mis Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.Forms.CatTeclado.resources
+D:\Mis Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.Forms.CatMonitor.resources
+D:\Mis Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.Forms.CatUSB.resources
+D:\Mis Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.Forms.CatSSD.resources
+D:\Mis Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.Forms.CatTarjetasVideo.resources
+D:\Mis Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.Forms.CatMotherboard.resources
+D:\Mis Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.Forms.CatRAM.resources
+D:\Mis Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.Forms.CatProcesadores.resources
+D:\Mis Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.Forms.CatGamingLaptops.resources
+D:\Mis Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.Forms.CatTablets.resources
+D:\Mis Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.Forms.CatLaptops.resources
+D:\Mis Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.Forms.CatServer.resources
+D:\Mis Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.Forms.CatGaming.resources
+D:\Mis Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.Forms.CatEscritorio.resources
+D:\Mis Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.Login.resources
+D:\Mis Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.Forms.Principal.resources
+D:\Mis Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.Registro.resources
+D:\Mis Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.exe.manifest
+D:\Mis Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.application
+D:\Mis Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.exe
+D:\Mis Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.pdb
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\bin\Debug\CProyect.exe.config
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.exe
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.pdb
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\bin\Debug\DBVentas.mdb
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\bin\Debug\CProyect.exe.manifest
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\bin\Debug\CProyect.application
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\bin\Debug\CProyect.exe
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\bin\Debug\CProyect.pdb
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\bin\Debug\MaterialSkin.dll
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.csprojResolveAssemblyReference.cache
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.Carretilla.resources
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.Forms.CatDiscoDuro.resources
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.Forms.CatDVD.resources
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.Forms.CatMouse.resources
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.Forms.CatTeclado.resources
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.Forms.CatMonitor.resources
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.Forms.CatUSB.resources
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.Forms.CatSSD.resources
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.Forms.CatTarjetasVideo.resources
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.Forms.CatMotherboard.resources
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.Forms.CatRAM.resources
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.Forms.CatProcesadores.resources
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.Forms.CatGamingLaptops.resources
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.Forms.CatTablets.resources
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.Forms.CatLaptops.resources
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.Forms.CatServer.resources
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.Forms.CatGaming.resources
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.Forms.CatEscritorio.resources
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.Login.resources
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.Forms.Principal.resources
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.Registro.resources
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.ImgCategorias.resources
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.ImgEscritorio.resources
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.Properties.Resources.resources
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.csproj.GenerateResource.Cache
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.exe.manifest
+E:\Roberto\Documentos\Visual Studio 2015\Projects\Pre Alpha\LollipopUI\obj\Debug\CProyect.application
+C:\Users\paul\Desktop\C&P\Codigo fuente C&P\LollipopUI\bin\Debug\CProyect.exe.config
+C:\Users\paul\Desktop\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.exe
+C:\Users\paul\Desktop\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.pdb
+C:\Users\paul\Desktop\C&P\Codigo fuente C&P\LollipopUI\bin\Debug\DBVentas.mdb
+C:\Users\paul\Desktop\C&P\Codigo fuente C&P\LollipopUI\bin\Debug\CProyect.exe.manifest
+C:\Users\paul\Desktop\C&P\Codigo fuente C&P\LollipopUI\bin\Debug\CProyect.application
+C:\Users\paul\Desktop\C&P\Codigo fuente C&P\LollipopUI\bin\Debug\CProyect.exe
+C:\Users\paul\Desktop\C&P\Codigo fuente C&P\LollipopUI\bin\Debug\CProyect.pdb
+C:\Users\paul\Desktop\C&P\Codigo fuente C&P\LollipopUI\bin\Debug\MaterialSkin.dll
+C:\Users\paul\Desktop\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.csprojResolveAssemblyReference.cache
+C:\Users\paul\Desktop\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.Carretilla.resources
+C:\Users\paul\Desktop\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.Forms.CatDiscoDuro.resources
+C:\Users\paul\Desktop\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.Forms.CatDVD.resources
+C:\Users\paul\Desktop\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.Forms.CatMouse.resources
+C:\Users\paul\Desktop\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.Forms.CatTeclado.resources
+C:\Users\paul\Desktop\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.Forms.CatMonitor.resources
+C:\Users\paul\Desktop\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.Forms.CatUSB.resources
+C:\Users\paul\Desktop\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.Forms.CatSSD.resources
+C:\Users\paul\Desktop\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.Forms.CatTarjetasVideo.resources
+C:\Users\paul\Desktop\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.Forms.CatMotherboard.resources
+C:\Users\paul\Desktop\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.Forms.CatRAM.resources
+C:\Users\paul\Desktop\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.Forms.CatProcesadores.resources
+C:\Users\paul\Desktop\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.Forms.CatGamingLaptops.resources
+C:\Users\paul\Desktop\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.Forms.CatTablets.resources
+C:\Users\paul\Desktop\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.Forms.CatLaptops.resources
+C:\Users\paul\Desktop\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.Forms.CatServer.resources
+C:\Users\paul\Desktop\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.Forms.CatGaming.resources
+C:\Users\paul\Desktop\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.Forms.CatEscritorio.resources
+C:\Users\paul\Desktop\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.Login.resources
+C:\Users\paul\Desktop\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.Forms.Principal.resources
+C:\Users\paul\Desktop\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.Registro.resources
+C:\Users\paul\Desktop\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.ImgCategorias.resources
+C:\Users\paul\Desktop\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.ImgEscritorio.resources
+C:\Users\paul\Desktop\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.Properties.Resources.resources
+C:\Users\paul\Desktop\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.csproj.GenerateResource.Cache
+C:\Users\paul\Desktop\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.exe.manifest
+C:\Users\paul\Desktop\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.application
+C:\Users\paul\Desktop\Archivos de Proyecto 1 Pg\C&P\Codigo fuente C&P\LollipopUI\bin\Debug\CProyect.exe.config
+C:\Users\paul\Desktop\Archivos de Proyecto 1 Pg\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.exe
+C:\Users\paul\Desktop\Archivos de Proyecto 1 Pg\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.pdb
+C:\Users\paul\Desktop\Archivos de Proyecto 1 Pg\C&P\Codigo fuente C&P\LollipopUI\bin\Debug\DBVentas.mdb
+C:\Users\paul\Desktop\Archivos de Proyecto 1 Pg\C&P\Codigo fuente C&P\LollipopUI\bin\Debug\CProyect.exe.manifest
+C:\Users\paul\Desktop\Archivos de Proyecto 1 Pg\C&P\Codigo fuente C&P\LollipopUI\bin\Debug\CProyect.application
+C:\Users\paul\Desktop\Archivos de Proyecto 1 Pg\C&P\Codigo fuente C&P\LollipopUI\bin\Debug\CProyect.exe
+C:\Users\paul\Desktop\Archivos de Proyecto 1 Pg\C&P\Codigo fuente C&P\LollipopUI\bin\Debug\CProyect.pdb
+C:\Users\paul\Desktop\Archivos de Proyecto 1 Pg\C&P\Codigo fuente C&P\LollipopUI\bin\Debug\MaterialSkin.dll
+C:\Users\paul\Desktop\Archivos de Proyecto 1 Pg\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.csprojResolveAssemblyReference.cache
+C:\Users\paul\Desktop\Archivos de Proyecto 1 Pg\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.Carretilla.resources
+C:\Users\paul\Desktop\Archivos de Proyecto 1 Pg\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.Forms.CatDiscoDuro.resources
+C:\Users\paul\Desktop\Archivos de Proyecto 1 Pg\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.Forms.CatDVD.resources
+C:\Users\paul\Desktop\Archivos de Proyecto 1 Pg\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.Forms.CatMouse.resources
+C:\Users\paul\Desktop\Archivos de Proyecto 1 Pg\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.Forms.CatTeclado.resources
+C:\Users\paul\Desktop\Archivos de Proyecto 1 Pg\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.Forms.CatMonitor.resources
+C:\Users\paul\Desktop\Archivos de Proyecto 1 Pg\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.Forms.CatUSB.resources
+C:\Users\paul\Desktop\Archivos de Proyecto 1 Pg\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.Forms.CatSSD.resources
+C:\Users\paul\Desktop\Archivos de Proyecto 1 Pg\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.Forms.CatTarjetasVideo.resources
+C:\Users\paul\Desktop\Archivos de Proyecto 1 Pg\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.Forms.CatMotherboard.resources
+C:\Users\paul\Desktop\Archivos de Proyecto 1 Pg\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.Forms.CatRAM.resources
+C:\Users\paul\Desktop\Archivos de Proyecto 1 Pg\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.Forms.CatProcesadores.resources
+C:\Users\paul\Desktop\Archivos de Proyecto 1 Pg\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.Forms.CatGamingLaptops.resources
+C:\Users\paul\Desktop\Archivos de Proyecto 1 Pg\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.Forms.CatTablets.resources
+C:\Users\paul\Desktop\Archivos de Proyecto 1 Pg\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.Forms.CatLaptops.resources
+C:\Users\paul\Desktop\Archivos de Proyecto 1 Pg\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.Forms.CatServer.resources
+C:\Users\paul\Desktop\Archivos de Proyecto 1 Pg\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.Forms.CatGaming.resources
+C:\Users\paul\Desktop\Archivos de Proyecto 1 Pg\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.Forms.CatEscritorio.resources
+C:\Users\paul\Desktop\Archivos de Proyecto 1 Pg\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.Login.resources
+C:\Users\paul\Desktop\Archivos de Proyecto 1 Pg\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.Forms.Principal.resources
+C:\Users\paul\Desktop\Archivos de Proyecto 1 Pg\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.Registro.resources
+C:\Users\paul\Desktop\Archivos de Proyecto 1 Pg\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.ImgCategorias.resources
+C:\Users\paul\Desktop\Archivos de Proyecto 1 Pg\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.ImgEscritorio.resources
+C:\Users\paul\Desktop\Archivos de Proyecto 1 Pg\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.Properties.Resources.resources
+C:\Users\paul\Desktop\Archivos de Proyecto 1 Pg\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.csproj.GenerateResource.Cache
+C:\Users\paul\Desktop\Archivos de Proyecto 1 Pg\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.exe.manifest
+C:\Users\paul\Desktop\Archivos de Proyecto 1 Pg\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.application
+C:\Users\paul\Documents\Archivos de Proyecto 1 Pg\C&P\Codigo fuente C&P\LollipopUI\bin\Debug\CProyect.exe.config
+C:\Users\paul\Documents\Archivos de Proyecto 1 Pg\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.exe
+C:\Users\paul\Documents\Archivos de Proyecto 1 Pg\C&P\Codigo fuente C&P\LollipopUI\obj\Debug\CProyect.pdb
